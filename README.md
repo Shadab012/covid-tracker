@@ -1,6 +1,6 @@
 # COVID-Tracker
 
-### [Live Site](https://kaleidoscopic-gaufre-4a18e0.netlify.app//)
+### [Live Site](https://reactjs-covid-tracker.netlify.app//)
 
 
 ## Introduction
